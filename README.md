@@ -15,3 +15,4 @@ Space: Run
 
 C: Clear board
 
+![ASTAR](https://github.com/Alex-Krysztofiak/AStar-Alg/assets/128325501/44efc012-98f3-435d-ba1a-ce35fd4dae8c)
